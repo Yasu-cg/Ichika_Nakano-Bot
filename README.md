@@ -1,6 +1,6 @@
 <h1 align="center">✦ Ichika-Nakano-Bot ✦</h1>
 
- <img src= "Yasu-cg/Ruby-Hoshino-Bot">
+ <img src= "https://i.postimg.cc/Ghg26nGh/IMG-20250604-WA0479.jpg">
     </p>
 
 ### **`❕️ Información importante`**
