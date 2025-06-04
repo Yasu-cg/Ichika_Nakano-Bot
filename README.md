@@ -133,11 +133,10 @@ npm start
 ### **`ᥫ᭡ Propietario`**
 <a
 href="https://github.com/Yasu-cg"><img src="https://github.com/Yasu-cg.png" width="130" height="130" alt="
-ⁱᵃᵐ|⨀⃝⃟⃞༺𝔜𝔞𝔰𝔲༻𝔣𝔣❀"/></a>
+ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
 
 ### **`🜸 Créditos`**
 <a href="https://github.com/Jhon-ai-sys" style="display:inline-block; text-decoration: none;">
     <img src="https://github.com/Jhon-ai-sys.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
 </a>
-
 
