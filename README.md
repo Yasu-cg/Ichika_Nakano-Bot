@@ -1,4 +1,4 @@
-<h1 align="center">𖤍ι¢нιкα_ηαкαησ-вσт</h1>
+<h1 align="center">𖤍ι¢нιкα_ηαкαησ-вσт𖤍</h1>
 
  <img src= "https://i.postimg.cc/Ghg26nGh/IMG-20250604-WA0479.jpg">
     </p>
