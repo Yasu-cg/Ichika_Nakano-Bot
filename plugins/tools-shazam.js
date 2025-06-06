@@ -1,9 +1,9 @@
 import acrcloud from 'acrcloud'
 
-let acr = new acrcloud({
-  host: 'identify-eu-west-1.acrcloud.com',
-  access_key: 'c33c767d683f78bd17d4bd4991955d81',
-  access_secret: 'bvgaIAEtADBTbLwiPGYlxupWqkNGIjT7J9Ag2vIu'
+const acr = new acrcloud({
+   host: "identify-ap-southeast-1.acrcloud.com",
+   access_key: "ee1b81b47cf98cd73a0072a761558ab1",
+   access_secret: "ya9OPe8onFAnNkyf9xMTK8qRyMGmsghfuHrIMmUI"
 })
 let handler = async (m, { conn, usedPrefix, command }) => {
   let q = m.quoted ? m.quoted : m
